@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<head>
+    <title>
+        my resume
+    </title>
+</head>
+<body>
+    <h1>sumant bansod</h1>
+ <img src="C:\Users\suman\Downloads\resume\resume" alt="profile picture of sumant bansod"/>
+ <h2>summary</h2>
+    <p>i am an passionate software developer who is keen to learn new things and looking forward for new opportunity by using my skillset.</p>
+    <hr/>
+    <h2>education</h2>
+    <h3>school-           </h3>
+    <p>kendriya vidhalaya seoni-2013</p>
+    <h3>collage</h3>
+<p>medicaps institute of technology and management-2017</p>
+<h3>skills</h3>
+<ol>
+<li>html</li>
+<li>css</li>
+<li>JavaScript</li>
+<li>nodeJs</li>
+<li>pHp</li>
+<li>c++</li>
+</ol>
+<h3>soft skills</h3>
+<ul>
+    <li>good speaker</li>
+    <li>leadership quality</li>
+    <li>adaptive</li>
+    <li>persistant</li>
+    <li>hardworking</li>
+    <li>paitent</li>
+    <li>emotionally inteligent</li>
+</ul>
+<h3>certification</h3>
+<P>wed devepment certificate</P>
+<a href="hobbies.html">hobbies</a>
+<a href="contact.html">contact</a>
+<footer>
+    <p>© 2024 sumant</p>
+</footer>
